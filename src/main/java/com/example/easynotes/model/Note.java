@@ -44,8 +44,6 @@ public class Note implements Serializable {
     @LastModifiedDate
     private Date updatedAt;
 
-    // Getters and Setters ... (Omitted for brevity)
-
     public Long getId() {
         return id;
     }
